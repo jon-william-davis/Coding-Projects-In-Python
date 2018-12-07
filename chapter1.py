@@ -11,8 +11,10 @@ import turtle as t
 # print(''.join(reversed('Time to code')))
 
 # pg.19
-for counter in range(11):
-    if((counter % 2) == 0):
-        print(str(counter) + ' is even')
-    else:
-        print(str(counter) + ' is odd')
+# for counter in range(11):
+#     if((counter % 2) == 0):
+#         print(str(counter) + ' is even')
+#     else:
+#         print(str(counter) + ' is odd')
+
+# pg.20
