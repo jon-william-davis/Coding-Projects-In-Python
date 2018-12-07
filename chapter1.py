@@ -18,4 +18,3 @@ import turtle as t
 #         print(str(counter) + ' is odd')
 
 # pg.20
-#
